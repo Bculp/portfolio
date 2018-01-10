@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700);
-@import url(http://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 /* ==========================================================================
 Typography
 ========================================================================== */
@@ -487,7 +487,7 @@ ul li {
   visibility: visible; }
 
 /* ==========================================================================
-	Font Icon (http://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)
+	Font Icon (https://www.elegantthemes.com/blog/freebie-of-the-week/free-line-style-icons)
 ========================================================================== */
 @font-face {
   font-family: "elegant-theme-line";
