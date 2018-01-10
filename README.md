@@ -2,6 +2,8 @@
 
 ## Credits
 
+Special thanks to Kamal Chaneman. His template helped me spin up this site pretty quick.
+
 ### Bootstrap
 
 [Bootstrap](https://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
